@@ -12,6 +12,7 @@ Game play using functionatly.
 🗒️ I build this game when i was learn C++, so my goal in future for this game to build in C# and set Computer and Player2.
 
 🔍 Source code:
+https://github.com/Marrwan03/Stone-Paper-Scissor-Game
 
 
 📧 In the end if you want some details about this game ask me
