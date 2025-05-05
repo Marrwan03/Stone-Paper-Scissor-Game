@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">I build this game as a task to practise by function and procedure.</h4>
+<h4 align="left">I build this game as a task to practice by function and procedure.</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">This game doesn't have features but it's good for anyone want to keep practise in function and procedure.</h4>
+<h4 align="left">This game doesn't have features but it's good for anyone want to keep practice in function and procedure.</h4>
 
 ###
 
